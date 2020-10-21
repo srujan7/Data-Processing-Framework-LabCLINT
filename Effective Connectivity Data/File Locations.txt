@@ -1,0 +1,20 @@
+Effective Connectivity Data\Controls\Alpha1\18F (13) EC EffecConn_Alpha1.txt
+Effective Connectivity Data\Controls\Gamma\18F (13) EC EffecConn_Gamma.txt
+Effective Connectivity Data\Controls\Alpha1\18F (13) EffecConn_Alpha1.txt
+Effective Connectivity Data\Controls\Gamma\18F (13) EffecConn_Gamma.txt
+Effective Connectivity Data\Controls\Alpha1\18F 2 EC EffecConn_Alpha1.txt
+Effective Connectivity Data\Controls\Gamma\18F 2 EC EffecConn_Gamma.txt
+Effective Connectivity Data\Controls\Alpha1\18F 2 EffecConn_Alpha1.txt
+Effective Connectivity Data\Controls\Gamma\18F 2 EffecConn_Gamma.txt
+Effective Connectivity Data\Controls\Alpha1\18F 3 EC EffecConn_Alpha1.txt
+Effective Connectivity Data\Controls\Gamma\18F 3 EC EffecConn_Gamma.txt
+Effective Connectivity Data\Patients\Alpha1\AELBRECHT_MICHAEL_PT_BIL_128_ICON EffecConn_Alpha1.txt
+Effective Connectivity Data\Patients\Gamma\AELBRECHT_MICHAEL_PT_BIL_128_ICON EffecConn_Gamma.txt
+Effective Connectivity Data\Patients\Alpha1\AERTS_LILIANE_NBN_RE_128 EffecConn_Alpha1.txt
+Effective Connectivity Data\Patients\Gamma\AERTS_LILIANE_NBN_RE_128 EffecConn_Gamma.txt
+Effective Connectivity Data\Patients\Alpha1\AERTS_WILLEM_PT_BIL_128_ICON EffecConn_Alpha1.txt
+Effective Connectivity Data\Patients\Gamma\AERTS_WILLEM_PT_BIL_128_ICON EffecConn_Gamma.txt
+Effective Connectivity Data\Patients\Alpha1\AKHANDAF_KARIM_PT_HOLO_128_ICON EffecConn_Alpha1.txt
+Effective Connectivity Data\Patients\Gamma\AKHANDAF_KARIM_PT_HOLO_128_ICON EffecConn_Gamma.txt
+Effective Connectivity Data\Patients\Alpha1\ALLEMAN_PATRICIA_PT_BIL_128_ICON EffecConn_Alpha1.txt
+Effective Connectivity Data\Patients\Gamma\ALLEMAN_PATRICIA_PT_BIL_128_ICON EffecConn_Gamma.txt

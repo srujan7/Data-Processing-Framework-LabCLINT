@@ -1,0 +1,4 @@
+- Average.py now able to average matrices for multiple subjects and plot desired data
+- Number of Controls is now an user-inputted value
+- There's an error in logic in the code to request user to specify path to data file for each Control; pick up code here
+- Once that's resolved, next step is to figure out how to display OS Directory as menu for user to choose file instead of inputting file path

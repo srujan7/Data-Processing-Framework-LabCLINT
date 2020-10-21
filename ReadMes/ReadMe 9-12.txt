@@ -1,0 +1,5 @@
+- Average.py now able to read both controls and patients data and average and plot both in one plot (all input functions have been added input validation)
+- Next step is to convert plotting into a user selected function, rather than being hard-coded
+- After that, the data needs to be sorted and exported into an excel file, in which each sheet represents a frequency band, and the data is sorted into subjects(rows) vs. ROIs(columns): example on PROCC3 board
+	- Need to use an external library to create and write to an xlsx file
+- The step after that would be to figure out how to display file directory and have them select files instead of inputting file paths

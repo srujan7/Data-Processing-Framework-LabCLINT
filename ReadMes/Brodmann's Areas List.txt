@@ -1,0 +1,92 @@
+Left:
+1L: Primary somatosensory cortex (Postcentral gyrus)
+2L: Primary somatosensory cortex (Postcentral gyrus)
+3L: Primary somatosensory cortex (Postcentral gyrus)
+4L: Primary motor cortex (Precentral gyrus)
+5L: Somatosensory association cortex
+6L: Premotor and supplementary motor cortex
+7L: Visuo-motor cortex
+8L: Frontal eye fields
+9L: Dorsolateral prefrontal cortex
+10L: Anterior prefrontal cortex
+11L: Orbitofrontal area
+13L: Insular Cortex
+17L: Primary visual cortex (V1)
+18L: Secondary visual cortex (V2)
+19L: Associative visual cortex (V3, V4, V5)
+20L: Inferior temporal gyrus
+21L: Middle temporal gyrus
+22L: Superior temporal gyrus
+23L: Ventral posterior cingulate cortex
+24L: Ventral anterior cingulate cortex
+25L: Subgenual area
+27L: Piriform cortex
+28L: Ventral entorhinal cortex
+29L: Retrosplenial cingulate cortex
+30L: Retrosplenial cerebral cortex
+31L: Dorsal posterior cingulate cortex
+32L: Dorsal anterior cingulate cortex
+33L: Cingulate cerebral cortex (Anterior cingulate gyrus)
+34L: Dorsal entorhinal cortex
+35L: Perirhinal cortex
+36L: Ectorhinal area (Temporal cerebral cortex)
+37L: Fusiform gyrus
+38L: Temporopolar area
+39L: Angular gyrus
+40L: Supramarginal gyrus
+41L: Auditory cortex
+42L: Auditory cortex
+43L: Primary gustatory cortex
+44L: Pars opercularis
+45L: Pars triangularis
+46L: Dorsolateral prefrontal cortex
+47L: Pars orbitalis
+
+Right:
+1R: Primary somatosensory cortex (Postcentral gyrus)
+2R: Primary somatosensory cortex (Postcentral gyrus)
+3R: Primary somatosensory cortex (Postcentral gyrus)
+4R: Primary motor cortex (Precentral gyrus)
+5R: Somatosensory association cortex
+6R: Premotor and supplementary motor cortex
+7R: Visuo-motor cortex
+8R: Frontal eye fields
+9R: Dorsolateral prefrontal cortex
+10R: Anterior prefrontal cortex
+11R: Orbitofrontal area
+13R: Insular Cortex
+17R: Primary visual cortex (V1)
+18R: Secondary visual cortex (V2)
+19R: Associative visual cortex (V3, V4, V5)
+20R: Inferior temporal gyrus
+21R: Middle temporal gyrus
+22R: Superior temporal gyrus
+23R: Ventral posterior cingulate cortex
+24R: Ventral anterior cingulate cortex
+25R: Subgenual area
+27R: Piriform cortex
+28R: Ventral entorhinal cortex
+29R: Retrosplenial cingulate cortex
+30R: Retrosplenial cerebral cortex
+31R: Dorsal posterior cingulate cortex
+32R: Dorsal anterior cingulate cortex
+33R: Cingulate cerebral cortex (Anterior cingulate gyrus)
+34R: Dorsal entorhinal cortex
+35R: Perirhinal cortex
+36R: Ectorhinal area (Temporal cerebral cortex)
+37R: Fusiform gyrus
+38R: Temporopolar area
+39R: Angular gyrus
+40R: Supramarginal gyrus
+41R: Auditory cortex
+42R: Auditory cortex
+43R: Primary gustatory cortex
+44R: Pars opercularis
+45R: Pars triangularis
+46R: Dorsolateral prefrontal cortex
+47R: Pars orbitalis
+
+ROIs:
+['1L', '2L', '3L', '4L', '5L', '6L', '7L', '8L', '9L', '10L', '11L', '13L', '17L', '18L', '19L', '20L', '21L', '22L', '23L', '24L', '25L', '27L', '28L', '29L', '30L', '31L', '32L', '33L', '34L', '35L', '36L', '37L', '38L', '39L', '40L', '41L', '42L', '43L', '44L', '45L', '46L', '47L', '1R', '2R', '3R', '4R', '5R', '6R', '7R', '8R', '9R', '10R', '11R', '13R', '17R', '18R', '19R', '20R', '21R', '22R', '23R', '24R', '25R', '27R', '28R', '29R', '30R', '31R', '32R', '33R', '34R', '35R', '36R', '37R', '38R', '39R', '40R', '41R', '42R', '43R', '44R', '45R', '46R', '47R']
+
+1L 2L 3L 4L 5L 6L 7L 8L 9L 10L 11L 13L 17L 18L 19L 20L 21L 22L 23L 24L 25L 27L 28L 29L 30L 31L 32L 33L 34L 35L 36L 37L 38L 39L 40L 41L 42L 43L 44L 45L 46L 47L 1R 2R 3R 4R 5R 6R 7R 8R 9R 10R 11R 13R 17R 18R 19R 20R 21R 22R 23R 24R 25R 27R 28R 29R 30R 31R 32R 33R 34R 35R 36R 37R 38R 39R 40R 41R 42R 43R 44R 45R 46R 47R

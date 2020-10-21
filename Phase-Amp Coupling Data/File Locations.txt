@@ -1,0 +1,34 @@
+Phase-Amp Coupling Data\Controls\dACC\MEP_AJTN_025_RS_2-4AmpPhaseSignals.txt
+Phase-Amp Coupling Data\Controls\dACC\MEP_AMNS_032_RS_2-4AmpPhaseSignals.txt
+Phase-Amp Coupling Data\Controls\dACC\MEP_EMTO_030_RS_2-4AmpPhaseSignals.txt
+Phase-Amp Coupling Data\Controls\dACC\MEP_HSZS_029_RS_2-4AmpPhaseSignals.txt
+Phase-Amp Coupling Data\Controls\dACC\MEP_KANS_001_RS_2-4AmpPhaseSignals.txt
+Phase-Amp Coupling Data\Patients\dACC\MEP_ANTZ_028_RS_2-4AmpPhaseSignals.txt
+Phase-Amp Coupling Data\Patients\dACC\MEP_CFOS_003_RS_2-4AmpPhaseSignals.txt
+Phase-Amp Coupling Data\Patients\dACC\MEP_CJFT_008_RS_2-4AmpPhaseSignals.txt
+Phase-Amp Coupling Data\Patients\dACC\MEP_CSFE_012_RS_2-4AmpPhaseSignals.txt
+Phase-Amp Coupling Data\Patients\dACC\MEP_JDST_026_RS_2-4AmpPhaseSignals.txt
+
+Phase-Amp Coupling Data\Controls\dACC\MEP_AJTN_025_RS_2-4AmpPhaseSignals.txt
+Phase-Amp Coupling Data\Patients\dACC\MEP_ANTZ_028_RS_2-4AmpPhaseSignals.txt
+
+Phase-Amp Coupling Data\Controls\dACC\MEP_AJTN_025_RS_2-4AmpPhaseSignals.txt
+Phase-Amp Coupling Data\Controls\dACC\MEP_AJTN_025_RS_2-4AmpPhaseSignals.txt
+Phase-Amp Coupling Data\Controls\dACC\MEP_AMNS_032_RS_2-4AmpPhaseSignals.txt
+Phase-Amp Coupling Data\Controls\dACC\MEP_AMNS_032_RS_2-4AmpPhaseSignals.txt
+Phase-Amp Coupling Data\Controls\dACC\MEP_EMTO_030_RS_2-4AmpPhaseSignals.txt
+Phase-Amp Coupling Data\Controls\dACC\MEP_EMTO_030_RS_2-4AmpPhaseSignals.txt
+Phase-Amp Coupling Data\Controls\dACC\MEP_HSZS_029_RS_2-4AmpPhaseSignals.txt
+Phase-Amp Coupling Data\Controls\dACC\MEP_HSZS_029_RS_2-4AmpPhaseSignals.txt
+Phase-Amp Coupling Data\Controls\dACC\MEP_KANS_001_RS_2-4AmpPhaseSignals.txt
+Phase-Amp Coupling Data\Controls\dACC\MEP_KANS_001_RS_2-4AmpPhaseSignals.txt
+Phase-Amp Coupling Data\Patients\dACC\MEP_ANTZ_028_RS_2-4AmpPhaseSignals.txt
+Phase-Amp Coupling Data\Patients\dACC\MEP_ANTZ_028_RS_2-4AmpPhaseSignals.txt
+Phase-Amp Coupling Data\Patients\dACC\MEP_CFOS_003_RS_2-4AmpPhaseSignals.txt
+Phase-Amp Coupling Data\Patients\dACC\MEP_CFOS_003_RS_2-4AmpPhaseSignals.txt
+Phase-Amp Coupling Data\Patients\dACC\MEP_CJFT_008_RS_2-4AmpPhaseSignals.txt
+Phase-Amp Coupling Data\Patients\dACC\MEP_CJFT_008_RS_2-4AmpPhaseSignals.txt
+Phase-Amp Coupling Data\Patients\dACC\MEP_CSFE_012_RS_2-4AmpPhaseSignals.txt
+Phase-Amp Coupling Data\Patients\dACC\MEP_CSFE_012_RS_2-4AmpPhaseSignals.txt
+Phase-Amp Coupling Data\Patients\dACC\MEP_JDST_026_RS_2-4AmpPhaseSignals.txt
+Phase-Amp Coupling Data\Patients\dACC\MEP_JDST_026_RS_2-4AmpPhaseSignals.txt

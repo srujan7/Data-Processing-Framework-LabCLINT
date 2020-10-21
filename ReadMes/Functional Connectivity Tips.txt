@@ -1,0 +1,8 @@
+Choose to plot between ________ and _________
+						+
+
+						(when clicked)
+choose to plot between ________ and __________
+		       ________ and __________
+		       ________ and __________
+						+

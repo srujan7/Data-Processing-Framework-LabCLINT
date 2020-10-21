@@ -1,0 +1,1 @@
+Add "parent" in each widget to make it conform to the title. "functional connectivity"
